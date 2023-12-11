@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Chester\Desktop\Chester cr injectör src\CrInejctor\Main.cpp(33,16): warning C4101: 'lpstrCustomFilter': yerel değişken başvurusu kaldırıldı
+C:\Users\Chester\Desktop\Chester cr injectör src\CrInejctor\Main.cpp(36,16): warning C4101: 'lpstrFile': yerel değişken başvurusu kaldırıldı
+C:\Users\Chester\Desktop\Chester cr injectör src\CrInejctor\Main.cpp(34,16): warning C4101: 'nMaxCustFilter': yerel değişken başvurusu kaldırıldı
+  CrInejctor.vcxproj -> C:\Users\Chester\Desktop\Chester cr injectör src\x64\Debug\CrInejctor.exe
